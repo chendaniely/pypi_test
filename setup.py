@@ -8,4 +8,4 @@ setup(name='pypi_test',
       url='https://github.com/chendaniely/pypi_test',
       download_url='https://github.com/chendaniely/pypi_test/tarball/0.0.1',
       keywords=['testing', 'logging', 'example'],
-      classifiers=[])
+      classifiers=["Natural Language :: English", ])
